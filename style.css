@@ -1,11 +1,9 @@
-h1
-{
+h1 {
     color: blue;
     font-family: Arial, sans-serif;
     text-align: center;
 }
-p 
-{
+p {
     color: gray;
     font-family: 'Times New Roman', serif;
     line-height: 1.5;
